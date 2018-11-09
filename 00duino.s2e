@@ -1,5 +1,5 @@
 {	
-	"extensionName": "00duino 출력 part",
+	"extensionName": "00duino 모터 part",
 	"description": "00duino(또는 Arduino)를 위한 mBlock 확장",
 	"version": "0.0.1",
 	"author": "BetaMan(skymin0417@gmail.com)",
