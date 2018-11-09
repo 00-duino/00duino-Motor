@@ -1,2 +1,2 @@
-# 00duino-Output
-mBlock Extension for 00duino, Output part
+# 00duino-Motor
+mBlock Extension for 00duino, Motor part
